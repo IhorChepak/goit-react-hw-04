@@ -1,5 +1,5 @@
-import ImageCard from "../imageCard/ImageCard";
-import s from "./imageGallery.module.css";
+import ImageCard from "../ImageCard/ImageCard";
+import s from "./ImageGallery.module.css";
 
 const ImageGallery = ({ picture, onImageClick }) => {
   return (
